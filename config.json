@@ -1,8 +1,0 @@
-{
-  "iedName": "MYIED",
-  "ldName": "LD0",
-  "lnName": "GGIO1",
-  "numInputs": 5,
-  "numOutputs": 4,
-  "controlModel": "direct"
-}
