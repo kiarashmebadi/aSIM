@@ -1,0 +1,10 @@
+cat <<'EOF' > .gitignore
+# build outputs
+*.o
+*.log
+iec61850_csv_server
+
+# editor backups / temp
+*~
+*.swp
+EOF
